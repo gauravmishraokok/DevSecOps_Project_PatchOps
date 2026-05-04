@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+venv/
+env/
+__pycache__/
+*.pyc
+*.zip
+demo_artifacts/
+test_payloads/
+patchops-key.pem
+/tmp/patchops_*
+.vscode/
+.idea/
+*.db
+users.db
